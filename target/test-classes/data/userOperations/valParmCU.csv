@@ -1,0 +1,11 @@
+email,name,surname,statusCode
+  ,Juan,Pérez,400
+asdqwe,Juan,Pérez,400
+juan12@,Juan,Pérez,400
+juan123@gmail,Juan,Pérez,400
+juan1234@gmail.com,,Pérez,400
+juan5@gmail.com,Juan,,400
+juan6@gmail.com,     ,Pérez,400
+juan7@gmail.com,Juan,       ,400
+john.doe@wherever.com,John,Doe,409
+john.doe@wherever.com,Carlos,Pérez,409

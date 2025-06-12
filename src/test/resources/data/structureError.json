@@ -1,0 +1,14 @@
+{
+  "errors": [
+    {
+      "message": "#string",
+      "location": {
+        "in": "#string",
+        "name": "#string",
+        "docPath": "#string",
+        "path": "#string"
+      }
+    }
+  ],
+  "message": "#string"
+}

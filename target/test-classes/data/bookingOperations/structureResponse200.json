@@ -1,0 +1,7 @@
+{
+  "id": "#? _ >= 1",
+  "date": "#? dateValidator(_)",
+  "destination": "#regex ^[A-Z]{3}$",
+  "origin": "#regex ^[A-Z]{3}$",
+  "userId": "#? _ >= 1"
+}

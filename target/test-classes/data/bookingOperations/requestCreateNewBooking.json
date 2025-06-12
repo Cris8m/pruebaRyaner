@@ -1,0 +1,6 @@
+{
+  "date": "#(date)",
+  "destination": "#(destination)",
+  "origin": "#(origin)",
+  "userId": 1
+}
